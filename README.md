@@ -45,23 +45,29 @@ Visual breakdown of:
 
 📁 Project Structure
 
-.
+
 ├── /client       # React + TypeScript frontend
+
 ├── /server       # FastAPI backend (API layer, AI integration)
+
 ├── /ml           # Python modules for NLP/resume analysis
+
 ├── /db           # PostgreSQL schema & migrations (Alembic)
+
 ├── /docker       # Dockerfiles & Compose setup
+
 └── /.github      # GitHub Actions CI/CD pipelines
+
 🛠️ Tech Stack
-Frontend: React, TypeScript, Vite
+1. Frontend: React, TypeScript, Vite
 
-1. Backend: FastAPI, Python 3.11+
+2. Backend: FastAPI, Python 3.11+
 
-2. Database: PostgreSQL, SQLAlchemy
+3. Database: PostgreSQL, SQLAlchemy
 
-3. AI/NLP: OpenAI API, spaCy, Hugging Face transformers
+4. AI/NLP: OpenAI API, spaCy, Hugging Face transformers
 
-4. DevOps: Docker, Docker Compose, GitHub Actions
+5. DevOps: Docker, Docker Compose, GitHub Actions
 
 
 
