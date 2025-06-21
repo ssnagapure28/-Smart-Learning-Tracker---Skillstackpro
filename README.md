@@ -1,4 +1,4 @@
-# -Smart-Learning-Tracker---Skillstackpro
+# Smart-Learning-Tracker
 SkillStack Pro is a full-stack, AI-powered platform that helps learners track their progress, refine their skills, and prepare for careers with intelligent recommendations and job application tools.
 
 🚀 Overview
