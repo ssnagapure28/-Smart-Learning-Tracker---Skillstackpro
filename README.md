@@ -4,58 +4,47 @@ SkillStack Pro is a full-stack, AI-powered platform that helps learners track th
 🚀 Overview
 SkillStack Pro is your personalized learning dashboard and career co-pilot. Whether you're a self-taught developer, coding bootcamp student, or upskilling professional, this platform helps you:
 
-Track learning resources and summarize progress
+1. Track learning resources and summarize progress
 
-Receive AI-curated skill recommendations
+2. Receive AI-curated skill recommendations
 
-Get resume feedback tailored to job descriptions
+3. Get resume feedback tailored to job descriptions
 
-Practice mock interviews and job prep with AI assistance
+4. Practice mock interviews and job prep with AI assistance
 
 🔧 Features
 📚 Learning Timeline
-Log tutorials, GitHub repos, or course notes
-
-AI generates progress summaries and tags concepts
-
-Visualize learning over time
+1. Log tutorials, GitHub repos, or course notes
+2.AI generates progress summaries and tags concepts
+3.Visualize learning over time
 
 🧠 Career Advisor
-Select career goals (e.g., Backend Developer, ML Engineer)
+1. Select career goals (e.g., Backend Developer, ML Engineer)
 
-Get skill recommendations, project ideas, and prep strategies
+2. Get skill recommendations, project ideas, and prep strategies
 
-Custom mock interview questions based on learning history
+3. Custom mock interview questions based on learning history
 
 📄 Resume Advisor
-Upload your resume and a job description
+1. Upload your resume and a job description
 
-AI analyzes and scores the match
+2. AI analyzes and scores the match
 
-Suggests optimized bullet points and structure
+3. Suggests optimized bullet points and structure
 
 📊 Live Dashboard
 Visual breakdown of:
 
-Topics covered
+1. Topics covered
 
-Time invested
+2. Time invested
 
-Top tags and skills
+3. Top tags and skills
 
-Progress toward career targets
-
-🧪 Bonus Features (Optional)
-Real-time feedback chatbot (powered by LLM)
-
-Voice journaling with transcription and summarization
-
-Personalized study tips based on tracked habits
+4. Progress toward career targets
 
 📁 Project Structure
-plaintext
-Copy
-Edit
+
 .
 ├── /client       # React + TypeScript frontend
 ├── /server       # FastAPI backend (API layer, AI integration)
@@ -66,13 +55,13 @@ Edit
 🛠️ Tech Stack
 Frontend: React, TypeScript, Vite
 
-Backend: FastAPI, Python 3.11+
+1. Backend: FastAPI, Python 3.11+
 
-Database: PostgreSQL, SQLAlchemy
+2. Database: PostgreSQL, SQLAlchemy
 
-AI/NLP: OpenAI API, spaCy, Hugging Face transformers
+3. AI/NLP: OpenAI API, spaCy, Hugging Face transformers
 
-DevOps: Docker, Docker Compose, GitHub Actions
+4. DevOps: Docker, Docker Compose, GitHub Actions
 
 
 
