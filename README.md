@@ -59,7 +59,7 @@ Visual breakdown of:
 └── /.github      # GitHub Actions CI/CD pipelines
 
 🛠️ Tech Stack
-1. Frontend: React, TypeScript, Vite
+1. Frontend: React, TypeScript
 
 2. Backend: FastAPI, Python 3.11+
 
